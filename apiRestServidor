@@ -1,0 +1,22 @@
+SyntaxError: Unexpected token  in JSON at position 24
+    at JSON.parse (<anonymous>)
+    at parse (C:\apiRestServidor\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\apiRestServidor\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:197:9)
+    at invokeCallback (C:\apiRestServidor\node_modules\raw-body\index.js:231:16)
+    at done (C:\apiRestServidor\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\apiRestServidor\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (events.js:387:35)
+    at endReadableNT (internal/streams/readable.js:1317:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+SyntaxError: Unexpected token D in JSON at position 447
+    at JSON.parse (<anonymous>)
+    at parse (C:\apiRestServidor\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\apiRestServidor\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (async_hooks.js:197:9)
+    at invokeCallback (C:\apiRestServidor\node_modules\raw-body\index.js:231:16)
+    at done (C:\apiRestServidor\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\apiRestServidor\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (events.js:387:35)
+    at endReadableNT (internal/streams/readable.js:1317:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
