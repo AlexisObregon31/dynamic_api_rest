@@ -2,14 +2,7 @@ let apiWhatss = function () {
   const consultaSql = require("./consultasSql");
   codLocation = "@c.us";
   const alexis = "595982823930" + codLocation;
-  const jose = "554599119758" + codLocation;
-  const alan = "595975640900" + codLocation;
-  const marcelo = "554599544243" + codLocation;
-  const miguel = "595985444884" + codLocation;
-  const junior = "554599766382" + codLocation;
-  const sandro = "595974812000" + codLocation;
-  const derlis = "595981265810" + codLocation;
-  const fabiana = "595974599258" + codLocation;
+
 
   var msg;
   const qrcode = require("qrcode-terminal");
